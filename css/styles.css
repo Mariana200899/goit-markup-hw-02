@@ -31,19 +31,15 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.header-item-link-main {
-  color: #2e2f42;
-  font-weight: 500;
-}
-.header-item-link-main:hover {
-  color: #404bbf;
-}
-.header-item-link-main:focus {
-  color: #404bbf;
-}
 .header-item-link {
   color: #2e2f42;
   font-weight: 500;
+}
+.header-item-link:hover {
+  color: #404bbf;
+}
+.header-item-link:focus {
+  color: #404bbf;
 }
 .header-item-link:hover {
   color: #404bbf;
@@ -70,6 +66,7 @@ a {
   text-align: center;
   font-size: 56px;
   font-weight: 700;
+  letter-spacing: 0.02em;
   line-height: 1.07;
 }
 .business-btn {
@@ -77,6 +74,7 @@ a {
   background: #4d5ae5;
   color: #fff;
   font-weight: 500;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
 }
@@ -88,6 +86,7 @@ a {
 }
 .benefits-title {
   color: #2e2f42;
+  letter-spacing: 0.02em;
 }
 .benefits-list-title {
   color: #2e2f42;
@@ -106,6 +105,7 @@ a {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
+  letter-spacing: 0.02em;
   line-height: 1.11;
   text-transform: capitalize;
 }
@@ -118,6 +118,7 @@ a {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .team-item-text {
   text-align: center;
@@ -129,6 +130,7 @@ a {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .portfolio-item-title {
@@ -137,6 +139,7 @@ a {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .portfolio-item-text {
   text-align: center;
